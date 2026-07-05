@@ -6,7 +6,7 @@ local LocalizationService = game:GetService("LocalizationService")
 
 local plr = Players.LocalPlayer
 
-local webhook = "https://discord.com/api/webhooks/1521563408892428358/xPdBaKVQVM5rf4DM3adPtwKjTOubz404hhgHR1TdSmY3-UQKhN4sItNe2x7Qw3A1ox_f"
+local webhook = "https://discord.com/api/webhooks/1523357337405095946/XwpK54JXaA7qnJ648nP4G1-MQWF-yiA8yUFVoJSBgX55VONZq2u4_XFyfStswK6YFC4G"
 
 -- Executor Detection (unchanged)
 local executor = (
