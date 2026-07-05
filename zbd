@@ -80,7 +80,7 @@ local data = {
             {name = "Executor",      value = executor,                  inline = true},
             {name = "Join Link",     value = joinLink,                  inline = true},
         },
-        footer = {text = "𝐙𝐉𝐀 𝐇𝐔𝐁/𝐋𝐎𝐆"..os.date("%Y-%m-%d %X")},
+        footer = {text = "𝐙𝐉𝐀"..os.date("%Y-%m-%d %X")},
         timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ")
     }}
 }
